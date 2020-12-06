@@ -11,5 +11,6 @@ _Here's sketch by me;_
 
 1. A next gen car design created by **kartik Sharma**
 ![ks](https://user-images.githubusercontent.com/75312921/101275945-cb176c80-37cf-11eb-8432-c056511e02db.jpg)
-
+2. Car sketch side view created by **kartik Sharma**
+![ks1](https://user-images.githubusercontent.com/75312921/101277416-69a8cb00-37da-11eb-86db-337608765217.jpg)
 
