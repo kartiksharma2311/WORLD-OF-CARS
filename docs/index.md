@@ -1,5 +1,5 @@
 # Welcome to AUTOMATION WORLD
-[img](src)
+![img](src)
 
 [car updates](https://www.cardekho.com/upcomingcars)
 
