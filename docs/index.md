@@ -9,7 +9,7 @@ THIS IS WORLD OF CARS
 A website where you will find every thing about automotive world from latest auto updates to car sketches 
 
 ```markdown
-Syntax highlighted code block [google]
+Syntax highlighted code block [google](http://google.com)
 
 # Header 1
 ## Header 2
