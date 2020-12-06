@@ -6,9 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### AUTOMATION WORLD
 THIS IS WORLD OF CARS
+A website where you will find every thing about automotive world from latest auto updates to car sketches 
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block [google]
 
 # Header 1
 ## Header 2
