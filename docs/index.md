@@ -17,7 +17,7 @@ _Here are few car designs made by me;_
 3.bold & sleek car deign range by **Kartik Sharma**
 ![IMG_20201206_193024](https://user-images.githubusercontent.com/75312921/101509677-061bca80-399f-11eb-9b40-5b6ce47523cf.jpg)
 4.McLaren P1 sketch by **kartik Sharma**
-![IMG_20201017_155717](https://user-images.githubusercontent.com/75312921/101510451-f51f8900-399f-11eb-9e87-43bc61da3d31.jpg)
+![IMG_20201208_215859](https://user-images.githubusercontent.com/75312921/101511284-9dcde880-39a0-11eb-845f-1b44d0826899.jpg)
 
 
 
