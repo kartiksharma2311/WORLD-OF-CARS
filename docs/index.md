@@ -14,7 +14,12 @@ _Here are few car designs made by me;_
 ![ks](https://user-images.githubusercontent.com/75312921/101275945-cb176c80-37cf-11eb-8432-c056511e02db.jpg)
 2. Car sketch side view created by **kartik Sharma**
 ![ks1](https://user-images.githubusercontent.com/75312921/101277416-69a8cb00-37da-11eb-86db-337608765217.jpg)
-3. Nex gen sleek car deign range by **Kartik Sharma**
+3.bold & sleek car deign range by **Kartik Sharma**
 ![IMG_20201206_193024](https://user-images.githubusercontent.com/75312921/101509677-061bca80-399f-11eb-9b40-5b6ce47523cf.jpg)
+4.McLaren P1 sketch by **kartik Sharma**
+![IMG_20201017_155717](https://user-images.githubusercontent.com/75312921/101510451-f51f8900-399f-11eb-9e87-43bc61da3d31.jpg)
+
+
 
 Thank you for visiting the web.🤗
+
