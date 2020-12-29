@@ -18,7 +18,7 @@ _Here are few car designs made by me;_
 ![IMG_20201206_193024](https://user-images.githubusercontent.com/75312921/101509677-061bca80-399f-11eb-9b40-5b6ce47523cf.jpg)
 4.McLaren P1 sketch by **kartik Sharma**
 ![IMG_20201208_215859](https://user-images.githubusercontent.com/75312921/101511284-9dcde880-39a0-11eb-845f-1b44d0826899.jpg)
-5.A concept inspired by Bugatti chiron.(rendered on autodesk) by**Kartik Sharma**
+5.A concept inspired by Bugatti chiron.(rendered on autodesk) by **Kartik Sharma**
 ![IMG_20201108_122618](https://user-images.githubusercontent.com/75312921/103304124-cb510380-4a2d-11eb-8eb8-d6d6343f15bb.png)
 6.A concept inspired by Bugatti choron by **Kartik Sharma**
 ![IMG_20201024_151257](https://user-images.githubusercontent.com/75312921/103304474-bf197600-4a2e-11eb-85f4-9c318a8bbefc.jpg)
